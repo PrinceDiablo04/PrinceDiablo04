@@ -1,4 +1,4 @@
-# Prince Diablo's Bio 
+# Prince Diablo's Info
  ### Interest
    - Gaming
    - Anime
@@ -13,6 +13,11 @@
    - [Dyntes](https://github.com/Dyntes)
    
    ## *I am still searching a team for collaburative*
+ 
+  
+  ### Contact me
+    
+   - Email: jokertheputra13579@gmail.com
 
 <!---
 PrinceDiablo04/PrinceDiablo04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
